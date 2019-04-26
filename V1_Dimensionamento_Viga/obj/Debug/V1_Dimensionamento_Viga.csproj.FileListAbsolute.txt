@@ -1,0 +1,19 @@
+c:\users\egito\documents\visual studio 2012\Projects\V1_Dimensionamento_Viga\bin\Debug\V1_Dimensionamento_Viga.exe.config
+C:\Users\Egito\documents\visual studio 2012\Projects\V1_Dimensionamento_Viga\bin\Debug\V1_Dimensionamento_Viga.exe
+C:\Users\Egito\documents\visual studio 2012\Projects\V1_Dimensionamento_Viga\bin\Debug\V1_Dimensionamento_Viga.pdb
+C:\Users\Egito\documents\visual studio 2012\Projects\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.csprojResolveAssemblyReference.cache
+C:\Users\Egito\documents\visual studio 2012\Projects\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.Form1.resources
+C:\Users\Egito\documents\visual studio 2012\Projects\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.Properties.Resources.resources
+C:\Users\Egito\documents\visual studio 2012\Projects\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.csproj.GenerateResource.Cache
+C:\Users\Egito\documents\visual studio 2012\Projects\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.exe
+C:\Users\Egito\documents\visual studio 2012\Projects\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.pdb
+D:\Egito\Documentos\Projetos_Computacao\Desktop\Projetos_UFC\V1_Dimensionamento_Viga\bin\Debug\V1_Dimensionamento_Viga.exe.config
+D:\Egito\Documentos\Projetos_Computacao\Desktop\Projetos_UFC\V1_Dimensionamento_Viga\bin\Debug\V1_Dimensionamento_Viga.exe
+D:\Egito\Documentos\Projetos_Computacao\Desktop\Projetos_UFC\V1_Dimensionamento_Viga\bin\Debug\V1_Dimensionamento_Viga.pdb
+D:\Egito\Documentos\Projetos_Computacao\Desktop\Projetos_UFC\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.csprojAssemblyReference.cache
+D:\Egito\Documentos\Projetos_Computacao\Desktop\Projetos_UFC\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.Form1.resources
+D:\Egito\Documentos\Projetos_Computacao\Desktop\Projetos_UFC\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.Properties.Resources.resources
+D:\Egito\Documentos\Projetos_Computacao\Desktop\Projetos_UFC\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.csproj.GenerateResource.cache
+D:\Egito\Documentos\Projetos_Computacao\Desktop\Projetos_UFC\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.csproj.CoreCompileInputs.cache
+D:\Egito\Documentos\Projetos_Computacao\Desktop\Projetos_UFC\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.exe
+D:\Egito\Documentos\Projetos_Computacao\Desktop\Projetos_UFC\V1_Dimensionamento_Viga\obj\Debug\V1_Dimensionamento_Viga.pdb
